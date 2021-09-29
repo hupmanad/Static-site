@@ -21,7 +21,7 @@ code {
   border-radius: 10px;
     background: #f4f4f4;
     border: 1px solid #ddd;
-    border-left: 3px solid #cEFF51;
+    border-left: 3px solid #c2722c;
     color: #666;
     page-break-inside: avoid;
     font-family: monospace;
@@ -36,7 +36,7 @@ code {
 }
 
 a {
-  color: #CEFF51;
+  color: #c2722c;
 }
 
 h3 {
@@ -52,7 +52,7 @@ h3 {
 
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
-  color: #cEFF51;
+  color: #c2722c;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
@@ -121,7 +121,7 @@ p {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: gray;
+  background-color: #c2722c;
   color: white;
 }
 
