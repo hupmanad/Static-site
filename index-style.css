@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Allerta');
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 :root {
 	color-scheme: dark;
@@ -73,6 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+  font-family: 'Open Sans', sans-serif;
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
